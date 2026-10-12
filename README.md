@@ -10,7 +10,7 @@
 
 clyred server cloner is a fast discord server cloner written in python using **aiohttp** and **asyncio**. the project focuses on speed while preserving the original server structure as accurately as possible.
 
-made by **zay (6cbj)**.
+made by **zay (6cjb)**.
 
 ---
 
